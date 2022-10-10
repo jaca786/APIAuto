@@ -10,7 +10,8 @@ Rest Assured + JAVA for API automation
 2) Build the project
 3) Run 'mvn -B package --file pom.xml' in the Terminal
 4) Once the execution of test scripts is completed, then For Generating the allure report , run below command in the terminal once
-   allure generate allure-results --clean -o allure-report
+   
+   ' allure generate allure-results --clean -o allure-report '
 5) For opening the html report, go to allure-report directory and open the index.html file --> Report will get opened in the browser
 
 # Need Assistance
